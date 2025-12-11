@@ -231,13 +231,13 @@ footer {
 <div class="card">
     <h3>🍃 Neem Soap</h3>
     <input type="number" id="Neem" min="0" placeholder="Quantity">
-    <button class="btn" onclick="openSheet('neem')">View Report</button>
+    <button class="btn" onclick="openSheet('neem')">View Cemical Peramiters Report</button>
 </div>
 
 <div class="card">
     <h3>🌿 Tulasi Soap</h3>
     <input type="number" id="Tulasi" min="0" placeholder="Quantity">
-    <button class="btn" onclick="openSheet('tulasi')">View Report</button>
+    <button class="btn" onclick="openSheet('tulasi')">View Cemical Peramiters Report</button>
 </div>
 
 <div class="card">
@@ -253,13 +253,13 @@ footer {
 <div class="card">
     <h3>🖤 Charcoal Soap</h3>
     <input type="number" id="Charcoal" min="0" placeholder="Quantity">
-    <button class="btn" onclick="openSheet('charcoal')">View Report</button>
+    <button class="btn" onclick="openSheet('charcoal')">View Cemical Peramiters Report</button>
 </div>
 
 <div class="card">
     <h3>✨ Turmeric Soap</h3>
     <input type="number" id="Turmeric" min="0" placeholder="Quantity">
-    <button class="btn" onclick="openSheet('turmeric')">View Report</button>
+    <button class="btn" onclick="openSheet('turmeric')">View Cemical Peramiters Report</button>
 </div>
 
 <div class="card">
